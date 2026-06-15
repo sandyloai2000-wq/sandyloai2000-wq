@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sandy 
 
-<!--
-**sandyloai2000-wq/sandyloai2000-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Biomedical Engineering student at Istanbul Medipol University  
+ Interested in using AI for LLM in medical imaging, and genomics  
+ Also really intrested in quantum computing and its applications
 
-Here are some ideas to get you started:
+## Skills
+- Python (Learning)
+- Java & JavaFX (Learning)
+- C (Learning)
+- Data Analysis (basic)
+- Machine Learning (beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Apply AI in medical sysetms.
+- Work on medical imaging projects using quantum computing.
+- Join AI research internships, Molecular and cellular biology lab research internships, quantum computing research internships.
